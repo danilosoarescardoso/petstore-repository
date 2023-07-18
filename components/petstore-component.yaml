@@ -17,7 +17,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-b
+  owner: squad-roma
   tags:
     - open api
     - java
