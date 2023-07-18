@@ -18,4 +18,4 @@ spec:
   providesApis:
     - streetlights
     - hello-world
-    - petstore-webhook-api
+    - petstore-webhook
