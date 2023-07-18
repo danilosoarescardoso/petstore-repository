@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: petstore
   # This is an extra long description with Markdown
+  tags:
+    - open api
+    - java
+    - api interna 
   description: |
     [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
     - First item
@@ -18,10 +22,6 @@ spec:
   type: service
   lifecycle: experimental
   owner: squad-roma
-  tags:
-    - open api
-    - java
-    - api interna
   providesApis:
     - streetlights
     - hello-world
