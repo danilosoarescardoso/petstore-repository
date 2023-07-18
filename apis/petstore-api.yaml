@@ -6,7 +6,7 @@ metadata:
   componente-grel: caapi-apro-base-originacao-proposta-v2
   tipo-autenticacao: oauth-2.0
   criticidade: extrema
-  exposicao:
+  exposure:
     - interna
     - externa
   issue-demanda: CAASP-18057
