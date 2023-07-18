@@ -15,6 +15,7 @@ spec:
   type: service
   lifecycle: experimental
   owner: team-c
+  tags: [open api, java, api interna]
   providesApis:
     - streetlights
     - hello-world
