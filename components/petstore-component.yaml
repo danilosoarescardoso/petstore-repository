@@ -14,12 +14,14 @@ metadata:
     - url: https://www.bv.com.br/
       title: Banco BV
       icon: bank
-
 spec:
   type: service
   lifecycle: experimental
   owner: team-b
-  tags: [open api, java, api interna]
+  tags:
+    - open api
+    - java
+    - api interna
   providesApis:
     - streetlights
     - hello-world
