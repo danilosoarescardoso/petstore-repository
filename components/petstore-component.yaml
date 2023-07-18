@@ -19,3 +19,4 @@ spec:
     - streetlights
     - hello-world
     - petstore-webhook
+    - petstore-api
