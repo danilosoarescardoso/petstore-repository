@@ -1,6 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
+  versao: major
+  numero-versao: "2.0"
+  componente-grel: caapi-apro-base-originacao-proposta-v2
+  tipo-autenticacao: oauth-2.0
+  criticidade: extrema
+  exposicao:
+    - interna
+    - externa
+  issue-demanda: CAASP-18057
   name: petstore-api
   description: The petstore API
   tags:
@@ -14,15 +23,6 @@ metadata:
       title: API Spec
       icon: code
 spec:
-  versao: major
-  numero-versao: "2.0"
-  componente-grel: caapi-apro-base-originacao-proposta-v2
-  tipo-autenticacao: oauth-2.0
-  criticidade: extrema
-  exposicao:
-    - interna
-    - externa
-  issue-demanda: CAASP-18057
   type: openapi
   lifecycle: experimental
   owner: squad-roma
