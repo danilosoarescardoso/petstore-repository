@@ -4,6 +4,7 @@ metadata:
   name: petstore
   # This is an extra long description with Markdown
   tags: [openapi, java, api-interna] 
+  version: major
   description: |
     [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
     - First item
