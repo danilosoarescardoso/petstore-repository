@@ -8,7 +8,6 @@ metadata:
   criticidade: extrema
   exposure:
     - interna
-    - externa
   issue_demanda: CAASP-18057
   name: petstore-api
   description: The petstore API
