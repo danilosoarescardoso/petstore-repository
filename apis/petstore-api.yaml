@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   version: major
-  version-number: "2.0"
-  componente-grel: caapi-apro-base-originacao-proposta-v2
+  version_number: "2.0"
+  componente_grel: caapi-apro-base-originacao-proposta-v2
   tipo-autenticacao: oauth-2.0
   criticidade: extrema
   exposure:
