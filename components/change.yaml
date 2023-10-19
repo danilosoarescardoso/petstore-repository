@@ -11,8 +11,8 @@ metadata:
       url: https://google.com
   annotations:
     backstage.io/techdocs-ref: dir:.
-tags:
-  - teste-teste
+  tags:
+    - teste-teste
 spec:
   type: service
   owner: kronos
