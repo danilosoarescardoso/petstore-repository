@@ -5,11 +5,11 @@ metadata:
   description: |
     [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
     - First item
-    - Second item  links:
+    - Second item
+  links:
     - title: teste
       url: https://google.com
   annotations:
-    github.com/project/slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
 tags:
   - teste-teste
