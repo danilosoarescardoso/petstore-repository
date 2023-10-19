@@ -3,8 +3,9 @@ kind: Component
 metadata:
   name: market-value
   description: |
-    blablabla
-  links:
+    [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
+    - First item
+    - Second item  links:
     - title: teste
       url: https://google.com
   annotations:
